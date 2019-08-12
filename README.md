@@ -1,4 +1,4 @@
-# eschool_login
+# eeSchool
 
 A new Flutter project.
 
