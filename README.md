@@ -1,4 +1,4 @@
-# eeSchool
+# eSchool
 
 A new Flutter project.
 
