@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035120524365",
+    "firebase_url": "https://eschool-1564407469832.firebaseio.com",
+    "project_id": "eschool-1564407469832",
+    "storage_bucket": "eschool-1564407469832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035120524365:android:b3c320239665f3d1",
+        "android_client_info": {
+          "package_name": "com.example.eschool_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035120524365-1renonubvj9lugnblireq5sts9i4sh0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16N_uzcz8mg6XBUIIPzc1F1xRmBbmn4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035120524365-1renonubvj9lugnblireq5sts9i4sh0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
