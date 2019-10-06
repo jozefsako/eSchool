@@ -18,6 +18,8 @@ class _LoginPage extends State<LoginPage> {
     });
   }
 
+// console.log("bonjour");
+
   Widget radioButton(bool isSelected) => Container(
     width: 16.0,
     height: 16.0,
